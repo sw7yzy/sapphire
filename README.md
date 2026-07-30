@@ -14,17 +14,13 @@ Go to [**https://sapphirer6.cc**](https://sapphirer6.cc) and log in using the ac
 
 ***
 
-#### 2. Download the Loader
+### 2. Download the Loader
 
-Once you're logged in, navigate to [**https://sapphirer6.cc/dashboard**](https://sapphirer6.cc/dashboard)
-
-***
-
-### 3. Download the Loader
-
-1. Open the downloaded loader file.
-2. Wait while the installer completes the setup process.
-3. When finished, you should see a message similar to:
+1. &#x20;Once you're logged in, navigate to [**https://sapphirer6.cc/dashboard**](https://sapphirer6.cc/dashboard)
+2. Download the Loader.
+3. Open the downloaded loader file.
+4. Wait while the installer completes the setup process.
+5. When finished, you should see a message similar to:
 
 ```
 Sapphire Installer
