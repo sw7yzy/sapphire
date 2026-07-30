@@ -34,7 +34,7 @@ Press Enter to exit.
 
 ***
 
-#### 4. Launch the Loader
+#### 3. Launch the Loader
 
 Read the loader carefully before continuing.
 
@@ -54,7 +54,7 @@ When prompted, paste your key into the loader.
 
 Wait for the payload download process to complete.
 
-#### 5. Launch the Game
+#### 4. Launch the Game
 
 Once the loader indicates that it is ready, launch **Siege**.
 
