@@ -35,8 +35,6 @@ If this appears, select:
 Use Local Save Data
 ```
 
-
-
 ***
 
 ### "No Response From Server" Error
@@ -98,3 +96,21 @@ Sync now
 ```
 
 Having incorrect date and time settings can prevent the loader from connecting properly.
+
+***
+
+#### Generate a Support Log
+
+If you've been asked to provide a support log, follow these steps:
+
+1. Open **Command Prompt**.
+2. Run the following command:
+
+```cmd
+"C:\Users\{LocalUser}\AppData\Local\Sapphire\loader.exe" --support-log
+```
+
+> Replace `{LocalUser}` with your Windows username if needed.
+
+3. This command will generate a file named **`Sapphire_Log`** in your **`%TEMP%`** directory.
+4. If our support team requests it, attach and send the `Sapphire_Log` file so we can investigate the issue.
