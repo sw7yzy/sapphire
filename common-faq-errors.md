@@ -110,7 +110,7 @@ If you've been asked to provide a support log, follow these steps:
 "C:\Users\{LocalUser}\AppData\Local\Sapphire\loader.exe" --support-log
 ```
 
-> Replace `{LocalUser}` with your Windows username if needed.
+> Replace `{LocalUser}` with your Windows username.
 
 3. This command will generate a file named **`Sapphire_Log`** in your **`%TEMP%`** directory.
 4. If our support team requests it, attach and send the `Sapphire_Log` file so we can investigate the issue.
