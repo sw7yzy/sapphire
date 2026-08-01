@@ -114,3 +114,11 @@ If you've been asked to provide a support log, follow these steps:
 
 3. This command will generate a file named **`Sapphire_Log`** in your **`%TEMP%`** directory.
 4. If our support team requests it, attach and send the `Sapphire_Log` file so we can investigate the issue.
+
+***
+
+**If you've launched the game and your skins aren't appearing, try the following:**
+
+Enable the **In-Game Overlay for Supported Games** in **Ubisoft Connect**, then restart the game and check if your skins are visible.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
