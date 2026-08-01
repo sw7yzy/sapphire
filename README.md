@@ -61,3 +61,9 @@ Once the loader indicates that it is ready, launch **Siege**.
 Follow any remaining prompts shown by the loader.
 
 The setup process should now be complete.
+
+***
+
+If you'd rather skip the written setup guide, you can follow this video tutorial instead, which walks you through the injection process step by step:
+
+{% embed url="https://youtu.be/K9XpmL1HZEU" %}
