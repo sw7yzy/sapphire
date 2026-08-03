@@ -41,7 +41,7 @@ Read the loader carefully before continuing.
 Navigate to the installation location by pressing **Windows Key + R** and pasting the following directory:
 
 ```
-C:\Users\YOURPCNAME\AppData\Local\Sapphire\
+%localappdata%/sapphire
 ```
 
 Open:
