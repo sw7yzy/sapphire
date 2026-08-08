@@ -7,7 +7,7 @@
 The default save file directory is:
 
 ```
-C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\{Your Account UUID}\{PRODUCT}\
+"C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\{Your Account UUID}\{PRODUCT}\"
 ```
 
 Replace `{Your Account UUID}` with your Ubisoft account UUID.
