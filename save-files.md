@@ -73,3 +73,7 @@ To use a downloaded save file:
 4. Launch the game and load your save.
 
 Make sure the files are placed in the correct directory and that the old save files have been replaced.
+
+
+
+{% embed url="https://youtu.be/Y5HPwF-lxiM" %}
